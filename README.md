@@ -26,7 +26,7 @@ And if you are using Windows, it is recommended to run the project using powersh
 To get started with the project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/Betting-Devs/BettingSite-MultiChain.git
-cd BettingSite-MultiChain
-npm install
+git clone https://github.com/Dream-Devs-Org/ThetaScreener.git
+cd ThetaScreenr
+npm install --legacy-peer-deps
 npm start
