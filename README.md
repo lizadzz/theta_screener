@@ -24,4 +24,6 @@ npm start
 
 
 as soon as the server is running you will be asked to connect you MetaMask wallet;
+
+
 in the end of the main page you can see your connected wallet address
