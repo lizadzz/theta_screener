@@ -2,21 +2,21 @@
 
 The only file which was changed in order to implement MetaMask integration was src/App.jsx
 
-I used Web3.js which needs to be installed before proceeding, so after running
+I used Web3.js which needs to be installed before proceeding, so after running:
 
 
 npm install --legacy-peer-deps
 
 
 
-we need to install web3 dependency
+we need to install web3 dependency:
 
 
 npm install web3
 
 
 
-then start the server
+then start the server:
 
 
 npm start
